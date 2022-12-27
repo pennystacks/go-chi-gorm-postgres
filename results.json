@@ -1,0 +1,21 @@
+{
+  "implementation": {
+    "name": "go-chi-gorm-pg",
+    "repo": "https://github.com/pennystacks/aspcore-ef-pg",
+    "runtime": "golang",
+    "runtime_version": "1.19.4",
+    "tested_date": "2022-12-26",
+    "api_spec_version": 1.0,
+    "framework": "chi",
+    "database": "postgres",
+    "orm": "gorm",
+    "category": "web-api"
+  },
+  "services": [
+    {
+      "compute_id": 2,
+      "database_id": 3
+    }
+  ],
+  "stats": []
+}
